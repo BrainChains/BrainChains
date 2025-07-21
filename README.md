@@ -1,70 +1,88 @@
-<h1 align="center">Hi 👋, I'm a Blockchain & Cryptocurrency Full Stack Expert</h1>
-<h3 align="center">Crafting next-gen blockchain products across Solana, Ethereum, Sui, BSC & more</h3>
+# 👨‍💻 Jovan Simic – Blockchain & Cryptocurrency Full Stack Expert
+
+🚀 **Token Launch | Web3 DApp | Launchpad | Bots | AI Agents | Cross-Chain Solutions**
+
+Welcome! I’m **Jovan**, a full-stack blockchain developer specializing in secure, scalable crypto products. I’ve helped clients launch tokens, build DApps, design presale platforms, integrate AI agents, and deploy trading bots across multiple blockchains.
 
 ---
 
-🚀 **About Me**
+## 🧑‍💼 About Me
 
-- 🔭 Currently building **Solana Raydium bots**, **staking systems**, **DEX launchpads**, and **token utilities**
-- 🌱 Experienced with gasless cross-chain intent systems and session key authorization models
-- 🧠 Mastermind behind **TrojanBot**, **BonkBot**, and **EdenFi** wallet
-- 💬 Ask me about **Tokenomics**, **Bots**, **Smart Contracts**, and **Web3 Integrations**
-- 🧑‍💻 Available for freelance on **Fiverr**: [Jovan Simic](https://www.fiverr.com/jovansimic)
-- 📝 Regular contributor to smart contract audits and Telegram bot logic
-
----
-
-🛠️ **Tech Stack & Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65"/><br>C#</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><br>C++</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65"/><br>Django</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65"/><br>REST API</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50"/><br>Nginx</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br>GitLab</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>JQuery</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>ASP.NET</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="48"/><br>Dart</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48"/><br>RabbitMQ</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sentry" width="48"/><br>Sentry</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48"/><br>Celery</td>
-    <td align="center" width="96"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48"/><br>Docusaurus</td>
-    <td align="center" width="96"><img src="https://bruhin.software/img/logos/pytest.svg" width="40"/><br>Pytest</td>
-  </tr>
-</table>
+- 🧠 **Blockchain Expert** with over 5 years of hands-on experience
+- 🛠️ Full Stack Dev: Smart Contracts, DApps, Telegram Bots, Market Maker Bots
+- 🌍 Supporting Ethereum, Solana, Sui, XRP, Tron, Ton, BSC, Aptos & more
+- 💼 Trusted by 60+ clients on [Fiverr](https://fiverr.com/jovan_simic)
+- 🤖 AI x Web3 Innovator: Eliza, Virtuals, AI16z, Aixbt, Dasha
 
 ---
 
-📊 **GitHub Stats**
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="165">
-</p>
+## ⚒️ Tools & Skills
+
+| Category       | Tools & Frameworks                                                                                                                                 |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**  | ![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity) ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust) ![TS](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![Go](https://img.shields.io/badge/-Go-blue?logo=go) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) |
+| **Frontend**   | ![React](https://img.shields.io/badge/-React-20232a?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38bdf8?logo=tailwind-css) |
+| **Backend**    | ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![Express](https://img.shields.io/badge/-Express-gray?logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs) |
+| **Smart Contracts** | ![Hardhat](https://img.shields.io/badge/-Hardhat-yellow?logo=ethereum) ![Anchor](https://img.shields.io/badge/-Anchor-purple?logo=solana) ![SPL](https://img.shields.io/badge/-SPL-blue?logo=solana) |
+| **AI/Agents**  | ![Eliza](https://img.shields.io/badge/-Eliza-black) ![Virtuals](https://img.shields.io/badge/-Virtuals-0077ff) ![AI16z](https://img.shields.io/badge/-AI16z-green) ![Dasha](https://img.shields.io/badge/-Dasha.ai-orange) |
+| **Bots**       | Market Maker, Volume, Holder, Maker, Buy/Snipe, Copy Trading, Telegram Bot, Trending Bot, Trojan Bot                                              |
+| **DeFi / DEX** | ![Uniswap](https://img.shields.io/badge/-Uniswap-purple?logo=uniswap) ![Raydium](https://img.shields.io/badge/-Raydium-blueviolet) ![GMX](https://img.shields.io/badge/-GMX-black) ![PancakeSwap](https://img.shields.io/badge/-PancakeSwap-gold?logo=pancakeswap) |
+| **DevOps**     | ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker) ![PM2](https://img.shields.io/badge/-PM2-007acc) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?logo=github-actions) |
+| **Wallets**    | Phantom, MetaMask, Solana Wallet Adapter, Tonkeeper, Keplr, Trust Wallet                                                                           |
 
 ---
 
-📫 **Let's connect**
+## 💼 Services I Offer
 
-- Fiverr: [Jovan Simic](https://www.fiverr.com/jovansimic)
-- Telegram: `@yourhandle`
-- Discord: `YourName#0000`
+### 🔹 Token & Blockchain Development
+- ERC20/BEP20/SPL/Token2022 tokens
+- Minting, Burning, Reward Logic, Tokenomics
+- Blockchain forks & explorer/dashboard UI
+
+### 🔹 DApp & Launchpad Dev
+- Presale DApps (PinkSale, PumpFun, LaunchLab)
+- Staking, Vesting, Airdrop Systems
+- Fully responsive dashboards with wallet auth
+
+### 🔹 Bots & Automation
+- Volume Bot, Maker Bot, Holder Bot
+- Buy/Snipe, Trojan, Trending Bot
+- Telegram Bot + Web UI integration
+
+### 🔹 Cross-Chain Development
+- Solana ↔ Ethereum ↔ Tron ↔ Ton ↔ Sui ↔ Aptos bridges
+- Multi-wallet integration & token tracking
+- Intent-based, gasless infra
+
+### 🔹 AI Agent Integration
+- Eliza AI Protocol, Virtuals, AI16z, Aixbt
+- Conversation-driven Web3 dApps
+- Autonomous trading or smart logic agents
+
+---
+
+## 🔗 Fiverr Highlights
+
+| 💼 Service                              | 🌐 Link                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------|
+| Presale DApp & Launchpad               | [View Gig](https://www.fiverr.com/jovan_simic/blockchain-developer-for-presale-web3-dapp-token-launch)  |
+| AI Volume / Holder / Maker Bot         | [View Gig](https://www.fiverr.com/jovan_simic/ai-trading-volume-holder-maker-bot)                        |
+| Cross-Chain Blockchain & Explorer Dev  | [View Gig](https://www.fiverr.com/jovan_simic/develop-custom-blockchain-explorer-wallet)                 |
+| AI Agent for Web3                      | [View Gig](https://www.fiverr.com/jovan_simic/integrate-ai-agent-into-web3-dapp)                         |
+| DEX Aggregator Clone (GMX, Raydium)    | [View Gig](https://www.fiverr.com/jovan_simic/fork-defi-aggregator-dapp-like-gmx-raydium)               |
+
+---
+
+## 📈 Let’s Build Something Great
+
+- ✅ Clean, audit-ready code
+- 🔁 Fast delivery & updates
+- 🧠 Real utility, not just hype
+
+📬 **Let’s connect:**  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Jovan%20Simic-green?logo=fiverr&style=for-the-badge)](https://fiverr.com/jovan_simic)
+
+---
+
+> _“Code is not just logic — it’s the trust layer of your vision.”_  
+> — Jovan Simic
