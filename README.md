@@ -1,48 +1,60 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Talented Blockchain & Cryptocurrency Full Stack Expert</h3>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Lucky Coin" title="👋 Hi there! I'm Lucky Coin"/>
+<div align="justify">
+
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-### 💼 What I Do
-- 🔧 Build scalable full stack dApps on **Solana**, **Ethereum**, and **Sui**
-- 🛠️ Create secure **smart contracts** (ERC20/ERC721, SPL tokens, staking, AMMs, DEX, DAO)
-- 🌉 Integrate cross-chain bridges, oracles (Chainlink, Pyth)
-- ⚙️ Design and optimize Web3 backend using **Node.js, TypeScript, MongoDB**
-- 🌐 Develop modern, responsive UIs using **React.js, Tailwind CSS**
-- 📱 Build mobile dApps with **React Native** and **WalletConnect**
+## 👋 Welcome
+
+I'm **Lucky Coin**, a Blockchain & Cryptocurrency Full Stack Expert with deep experience in:
+
+- 🌐 Building production-ready dApps across **Solana**, **EVM**, and **Sui**
+- 🔒 Writing secure smart contracts (SPL, ERC20/721, DAO, AMMs, staking)
+- ⚙️ Creating high-performance backends with **Node.js**, **MongoDB**, **Redis**
+- 🧠 Designing session key systems, gasless interactions, referral-based tokenomics
+- 📱 Developing mobile & web wallets using **React**, **Next.js**, **React Native**
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Highlight Projects
 
-#### 🌊 Raydium Bot (Solana)
-> Automated volume maker bot for Solana's Raydium DEX. Fully configurable via Node.js backend with live analytics and wallet management.
+### 💰 Raydium Volume Bot
+> Automated Solana market maker bot for volume injection. Runs multiple wallets, delay timers, and target-based triggers.
+- `Solana`, `Raydium`, `Node.js`, `MongoDB`
 
-- Type: Volume Bot  
-- Tech: Solana, Web3.js, Node.js, MongoDB
+### 🏦 Token Launch + Staking System
+> Launchpad with on-chain staking logic, custom tokenomics, and reward claiming UI.
+- `Solidity`, `React`, `Web3.js`, `MongoDB`
 
-#### 🪙 Token Launch & Staking Platform
-> Deployed ERC20/SPL token with staking dApp for clients. Includes vesting logic, NFT reward integration.
+### 🛠 LIFT UP DAO
+> Fundraising DAO with MLM-based smart contract logic, BASE chain support, Telegram integration.
+- `BASE`, `Solidity`, `Node.js`, `Telegram Bot API`
 
-- Tech: Solidity, React, Ethers.js, Anchor Framework
-
-#### 🌐 Lift Up DAO
-> DAO-based fundraising & referral system on BASE chain. Includes rotating referral logic and MLM features.
-
-- Tech: Solidity, Telegram Bot API, React, Next.js
-
-#### 🦥 KinkajouCoin (KJC)
-> Asset-backed Solana token linked to land conservation, with future carbon credit utility.
-
-- Tech: Solana, Anchor, React Native, GPS APIs
+### 🌱 KinkajouCoin (KJC)
+> Asset-backed Solana token tied to verified land, carbon credits & conservation.
+- `Solana`, `Anchor`, `GPS APIs`, `React Native`
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ```text
-💻 Blockchain: Solidity, Rust, Anchor, Web3.js, Ethers.js
-🌐 Frontend: React.js, Next.js, Tailwind CSS
-📱 Mobile: React Native, Expo
-🧠 Backend: Node.js, Express, TypeScript, MongoDB, Redis
-⚙️ Tools: Git, Hardhat, Foundry, Metaplex, Postman, Docker
+💻 Smart Contracts: Solidity, Rust, Anchor, Move
+🧠 Backend: Node.js, Express.js, TypeScript, MongoDB, Redis
+🌐 Frontend: React, Next.js, Tailwind CSS, Ethers.js, Web3.js
+📱 Mobile: React Native, Expo, WalletConnect
+🌉 Cross-chain: Wormhole, LayerZero, Chainlink
+🛠 Tools: Git, Postman, Docker, Hardhat, Foundry
