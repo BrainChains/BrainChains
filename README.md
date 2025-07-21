@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Lucky Coin" title="👋 Hi there! I'm Lucky Coin"/>
 <div align="justify">
 
 <a href="https://t.me/YOUR_TELEGRAM">
