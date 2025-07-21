@@ -1,4 +1,4 @@
-# 👨‍💻 Daniel Jekai Kay – Blockchain & Cryptocurrency Full Stack Expert
+# 👨‍💻 Daniel Yekai – Blockchain & Cryptocurrency Full Stack Expert
 
 🚀 **Decentralized Applications | Memecoin Launch | Telegram Bots Solutions**
 
@@ -70,4 +70,4 @@ Welcome! I’m **Daniel**, a full-stack blockchain developer specializing in sec
 ---
 
 > _“Code is not just logic — it’s the trust layer of your vision.”_  
-> — Daniel Jekai
+> — Daniel Yekai
